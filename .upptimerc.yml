@@ -10,7 +10,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.lukehjo.tech
-  logoUrl: https://raw.githubusercontent.com/luke-beep/status.lukehjo.tech/master/assets/Lukehjo's%20dev%20log.svg?token=GHSAT0AAAAAAB4Y3BJQFE44BYA3R4AXIDQWZATWSIQ
+  logoUrl: https://raw.githubusercontent.com/luke-beep/status.lukehjo.tech/master/assets/asset.svg
   name: Dev Log Status
   introTitle: "LukeHjo's Dev Log Status"
   introMessage: Hello
