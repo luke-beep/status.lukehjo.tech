@@ -1,20 +1,20 @@
 [
   {
-    "name": "LukeHjos Tech Blog",
+    "name": "LukeHjo's Dev Log",
     "url": "https://dev.lukehjo.tech",
     "icon": "https://icons.duckduckgo.com/ip3/dev.lukehjo.tech.ico",
-    "slug": "luke-hjos-tech-blog",
+    "slug": "luke-hjo-s-dev-log",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 191,
-    "timeWeek": 395,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "time": 457,
+    "timeDay": 457,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {}
   }
 ]
