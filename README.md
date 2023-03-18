@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.lukehjo.tech): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.lukehjo.tech): <!--live status--> **🟥 Complete outage**
 
 This repository contains the open-source uptime monitor and status page for [LukeHjo](https://lukehjo.rocks), powered by [Upptime](https://github.com/upptime/upptime).
 
