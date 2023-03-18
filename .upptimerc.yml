@@ -13,7 +13,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/luke-beep/status.lukehjo.tech/master/assets/asset.svg
   name: LukeHjo's Dev Log Status
   introTitle: "LukeHjo's Dev Log Status"
-  introMessage: 
+  introMessage: "Welcome to LukeHjo's Dev Log Status Page!"
   navbar:
     - title: Status
       href: /
