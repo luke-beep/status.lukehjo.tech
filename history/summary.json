@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 529,
-    "timeDay": 527,
-    "timeWeek": 529,
-    "timeMonth": 529,
-    "timeYear": 529,
+    "time": 535,
+    "timeDay": 543,
+    "timeWeek": 535,
+    "timeMonth": 535,
+    "timeYear": 535,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/lukehjo.tech.ico",
     "slug": "lukehjo-tech",
     "status": "down",
-    "uptime": "7.07%",
-    "uptimeDay": "7.07%",
-    "uptimeWeek": "7.07%",
-    "uptimeMonth": "7.07%",
-    "uptimeYear": "7.07%",
+    "uptime": "1.18%",
+    "uptimeDay": "1.18%",
+    "uptimeWeek": "1.18%",
+    "uptimeMonth": "1.18%",
+    "uptimeYear": "1.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-20": 0
+      "2023-03-20": 1
     }
+  },
+  {
+    "name": "lukehjo.tech Mail",
+    "url": "https://webmail.lukehjo.tech",
+    "icon": "https://icons.duckduckgo.com/ip3/webmail.lukehjo.tech.ico",
+    "slug": "lukehjo-tech-mail",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 617,
+    "timeDay": 617,
+    "timeWeek": 617,
+    "timeMonth": 617,
+    "timeYear": 617,
+    "dailyMinutesDown": {}
   }
 ]
