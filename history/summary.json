@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 530,
-    "timeWeek": 530,
-    "timeMonth": 530,
-    "timeYear": 530,
+    "time": 529,
+    "timeDay": 527,
+    "timeWeek": 529,
+    "timeMonth": 529,
+    "timeYear": 529,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "lukehjo.tech",
+    "url": "https://lukehjo.tech",
+    "icon": "https://icons.duckduckgo.com/ip3/lukehjo.tech.ico",
+    "slug": "lukehjo-tech",
+    "status": "down",
+    "uptime": "27.40%",
+    "uptimeDay": "27.40%",
+    "uptimeWeek": "27.40%",
+    "uptimeMonth": "27.40%",
+    "uptimeYear": "27.40%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-03-20": 0
+    }
   }
 ]
