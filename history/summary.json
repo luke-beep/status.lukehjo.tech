@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-21": 1198,
+      "2023-03-21": 1216,
       "2023-03-20": 1399
     }
   },
@@ -43,19 +43,19 @@
     "url": "https://webmail.lukehjo.tech",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.lukehjo.tech.ico",
     "slug": "lukehjo-tech-mail",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 352,
-    "timeWeek": 440,
-    "timeMonth": 440,
-    "timeYear": 440,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
+    "time": 502,
+    "timeDay": 463,
+    "timeWeek": 502,
+    "timeMonth": 502,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2023-03-21": 0
+      "2023-03-21": 18
     }
   }
 ]
