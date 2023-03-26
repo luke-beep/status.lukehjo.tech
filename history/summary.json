@@ -4,9 +4,9 @@
     "url": "https://dev.lukehjo.tech",
     "icon": "https://icons.duckduckgo.com/ip3/dev.lukehjo.tech.ico",
     "slug": "luke-hjo-s-dev-log",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 583,
     "timeMonth": 564,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-26": 0
+    }
   },
   {
     "name": "lukehjo.tech",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-26": 81,
+      "2023-03-26": 123,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
@@ -48,9 +50,9 @@
     "url": "https://webmail.lukehjo.tech",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.lukehjo.tech.ico",
     "slug": "lukehjo-tech-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
@@ -60,6 +62,7 @@
     "timeMonth": 544,
     "timeYear": 544,
     "dailyMinutesDown": {
+      "2023-03-26": 0,
       "2023-03-21": 18
     }
   }
