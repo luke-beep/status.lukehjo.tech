@@ -27,6 +27,8 @@ status-website:
       href: https://github.com/luke-beep/status.lukehjo.tech
     - title: Website
       href: https://dev.lukehjo.tech/
+    - title: Forum
+      href: https://forum.lukehjo.tech
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
