@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-09": 577,
+      "2023-04-09": 585,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
@@ -87,19 +87,19 @@
     "url": "https://forum.lukehjo.tech",
     "icon": "https://icons.duckduckgo.com/ip3/forum.lukehjo.tech.ico",
     "slug": "luke-hjo-s-dev-forum",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 857,
-    "timeDay": 1123,
-    "timeWeek": 908,
-    "timeMonth": 857,
-    "timeYear": 857,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 1046,
+    "timeDay": 1748,
+    "timeWeek": 1211,
+    "timeMonth": 1046,
+    "timeYear": 1046,
     "dailyMinutesDown": {
-      "2023-04-09": 47
+      "2023-04-09": 56
     }
   }
 ]
