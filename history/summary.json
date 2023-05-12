@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-12": 74,
+      "2023-05-12": 211,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
@@ -98,9 +98,9 @@
     "url": "https://webmail.lukehjo.tech",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.lukehjo.tech.ico",
     "slug": "lukehjo-tech-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "97.47%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "97.47%",
@@ -110,6 +110,7 @@
     "timeMonth": 420,
     "timeYear": 451,
     "dailyMinutesDown": {
+      "2023-05-12": 0,
       "2023-05-10": 15,
       "2023-04-26": 22,
       "2023-04-15": 20,
