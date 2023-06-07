@@ -1,7 +1,7 @@
 url: https://dev.lukehjo.tech
-status: up
-code: 200
-responseTime: 1750
-lastUpdated: 2023-06-06T23:11:45.425Z
+status: down
+code: 500
+responseTime: 5323
+lastUpdated: 2023-06-07T18:54:52.692Z
 startTime: Sat Mar 18 2023 22:07:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
