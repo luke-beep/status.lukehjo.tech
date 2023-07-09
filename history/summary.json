@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-09": 108,
+      "2023-07-09": 312,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
@@ -182,9 +182,9 @@
     "url": "https://forum.lukehjo.tech",
     "icon": "https://icons.duckduckgo.com/ip3/forum.lukehjo.tech.ico",
     "slug": "luke-hjo-s-dev-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "98.87%",
+    "uptimeDay": "98.86%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.90%",
@@ -194,6 +194,7 @@
     "timeMonth": 1496,
     "timeYear": 1102,
     "dailyMinutesDown": {
+      "2023-07-09": 0,
       "2023-07-08": 16,
       "2023-06-11": 61,
       "2023-04-09": 76
